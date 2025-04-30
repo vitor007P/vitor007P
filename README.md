@@ -2,7 +2,7 @@ olá,eu sou o Vítor
 
 🎓Faculdade Engenharia de software
 
-⌨️Codificando com C,C++,Python
+⌨️Codificando com C,C++.
 
 ➕Me aprimorando na programação
 

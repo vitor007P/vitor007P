@@ -25,6 +25,6 @@ olá,eu sou o Vítor
      
  <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow,windows,sqllite" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode," />
   </a>
 </div>

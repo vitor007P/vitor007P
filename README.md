@@ -18,7 +18,7 @@ olá,eu sou o Vítor
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,php" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,github,php" />
   </a>
 </div>
 
